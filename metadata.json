@@ -1,0 +1,5 @@
+{
+  "name": "StickerAI - 智能贴纸生成器",
+  "description": "上传图片，一键自动识别主体并生成带有白色描边的透明背景贴纸。",
+  "requestFramePermissions": []
+}
